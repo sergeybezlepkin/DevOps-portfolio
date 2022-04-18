@@ -5,4 +5,4 @@
 Практика №1
 
 -Я сделал настройку GitHub Actions для внедрения процесса непрерывной интеграции.
- Взглянуть на сам процесс можно [здесь](/simple-redirect/actions/runs/2185117641)
+ Взглянуть на сам процесс можно [здесь](https://github.com/sergeybezlepkin/simple-redirect/actions/runs/2185117641)
